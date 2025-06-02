@@ -167,3 +167,8 @@ body::-webkit-scrollbar-track{
 ::-webkit-scrollbar-thumb:hover {
     background: #c08057;
 }
+
+footer {
+	text-align: center;
+	color: #f1ecff;
+}
